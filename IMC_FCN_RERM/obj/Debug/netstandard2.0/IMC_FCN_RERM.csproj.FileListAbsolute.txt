@@ -1,0 +1,15 @@
+C:\Users\emiro\source\repos\IMC_FCN_RERM\IMC_FCN_RERM\bin\Debug\netstandard2.0\IMC_FCN_RERM.deps.json
+C:\Users\emiro\source\repos\IMC_FCN_RERM\IMC_FCN_RERM\bin\Debug\netstandard2.0\IMC_FCN_RERM.dll
+C:\Users\emiro\source\repos\IMC_FCN_RERM\IMC_FCN_RERM\bin\Debug\netstandard2.0\ref\IMC_FCN_RERM.dll
+C:\Users\emiro\source\repos\IMC_FCN_RERM\IMC_FCN_RERM\bin\Debug\netstandard2.0\IMC_FCN_RERM.pdb
+C:\Users\emiro\source\repos\IMC_FCN_RERM\IMC_FCN_RERM\obj\Debug\netstandard2.0\IMC_FCN_RERM.csproj.AssemblyReference.cache
+C:\Users\emiro\source\repos\IMC_FCN_RERM\IMC_FCN_RERM\obj\Debug\netstandard2.0\IMC_FCN_RERM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emiro\source\repos\IMC_FCN_RERM\IMC_FCN_RERM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\emiro\source\repos\IMC_FCN_RERM\IMC_FCN_RERM\obj\Debug\netstandard2.0\View\MainPage.xaml.g.cs
+C:\Users\emiro\source\repos\IMC_FCN_RERM\IMC_FCN_RERM\obj\Debug\netstandard2.0\IMC_FCN_RERM.AssemblyInfoInputs.cache
+C:\Users\emiro\source\repos\IMC_FCN_RERM\IMC_FCN_RERM\obj\Debug\netstandard2.0\IMC_FCN_RERM.AssemblyInfo.cs
+C:\Users\emiro\source\repos\IMC_FCN_RERM\IMC_FCN_RERM\obj\Debug\netstandard2.0\IMC_FCN_RERM.csproj.CoreCompileInputs.cache
+C:\Users\emiro\source\repos\IMC_FCN_RERM\IMC_FCN_RERM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\emiro\source\repos\IMC_FCN_RERM\IMC_FCN_RERM\obj\Debug\netstandard2.0\IMC_FCN_RERM.dll
+C:\Users\emiro\source\repos\IMC_FCN_RERM\IMC_FCN_RERM\obj\Debug\netstandard2.0\refint\IMC_FCN_RERM.dll
+C:\Users\emiro\source\repos\IMC_FCN_RERM\IMC_FCN_RERM\obj\Debug\netstandard2.0\IMC_FCN_RERM.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Tzs+BW5318GkR2fN5csWAtxWqA16vTVDolSSKX6a/Nk/VlO8kXsOI92vp17FIapXJABbwKMvVKG/6SBxfyU7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emiro\\source\\repos\\IMC_FCN_RERM\\IMC_FCN_RERM.iOS\\IMC_FCN_RERM.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emiro\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\emiro\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\emiro\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

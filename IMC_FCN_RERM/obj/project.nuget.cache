@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "FBtRCcCdcXjPjyZgMwXGL5cvGLpDgCv5Ra7KbXmlUpwOq75O1yvC4E6PfDk0i4hrCMD5V8D94sn/9GG0WrQWsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emiro\\source\\repos\\IMC_FCN_RERM\\IMC_FCN_RERM\\IMC_FCN_RERM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emiro\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\emiro\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\emiro\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\emiro\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\emiro\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
