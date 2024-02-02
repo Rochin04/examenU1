@@ -101,7 +101,8 @@ namespace IMC_FCN_RERM.ViewModel
             }
             else if(CalcularIMC == true)
             {
-                RespuestaIMC = Peso / (Altura * Altura);
+                double alturaEnMetros = Altura / 100.0;
+                RespuestaIMC = (int)(Peso / (alturaEnMetros * alturaEnMetros));
                 if(RespuestaIMC < 18.5)
                 {
                     Respuesta = $"Su IMC es de {RespuestaIMC} peso insuficiente";
